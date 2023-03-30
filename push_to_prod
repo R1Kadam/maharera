@@ -1,0 +1,2 @@
+#!/bin/bash
+scp -i LaurenFoxberryuatPrivateKey.pem -r * ubuntu@15.206.67.246:/var/Yuvraj/
